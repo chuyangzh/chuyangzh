@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chuyang (Cyrus) Zhang</h1>
 <h3 align="center">A passionate software / machine learning engineer</h3>
 
-- 🔭 I’m currently working on [🎨 Photo to Monet with CycleGAN](https://github.com/chuyangzh/Photo2Monet)
+- I’m currently working on [🎨 Photo to Monet with CycleGAN](https://github.com/chuyangzh/Photo2Monet)
 
-- 🌱 I’m currently learning **PyTorch, Gen AI**
+- Here's an interactive app I built in Apple VisionOS: [🥽 FortuneCookie](https://github.com/chuyangzh/FortuneCookieVisionPro)
+
+- I’m currently learning **PyTorch, Gen AI**
 
 
 <h3 align="left">Connect with me:</h3>
